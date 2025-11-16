@@ -30,15 +30,6 @@ An AI-powered clinical documentation assistant that helps healthcare professiona
   - Monthly usage statistics
   - Audio transcription minutes tracking
 
-### Subscription & Billing
-- **Free Trial**: 10 notes/month, 14 days
-- **Basic Plan**: Unlimited notes, limited audio transcription
-- **Pro Plan**: Unlimited notes and audio transcription
-
-- Stripe integration for payments
-- Usage tracking and limits enforcement
-- Subscription management portal
-
 ### Security & Compliance
 - **HIPAA-compliant** architecture
 - End-to-end encryption
