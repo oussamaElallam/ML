@@ -32,8 +32,8 @@ An AI-powered clinical documentation assistant that helps healthcare professiona
 
 ### Subscription & Billing
 - **Free Trial**: 10 notes/month, 14 days
-- **Basic Plan (€99/month)**: Unlimited notes, 100 min audio
-- **Pro Plan (€199/month)**: Unlimited everything
+- **Basic Plan**: Unlimited notes, limited audio transcription
+- **Pro Plan**: Unlimited notes and audio transcription
 
 - Stripe integration for payments
 - Usage tracking and limits enforcement
